@@ -1,0 +1,134 @@
+{
+    "home": "Home",
+    "trackShipment": "Track Shipment",
+    "ourFeature": "Our Feature",
+    "ourFeatureSubtitle": "Some text describing your awesome features",
+    "copyright": "copyright © 2025",
+    "poweredby": "powered by",
+    "alexShipping": "alex Shipping",
+    "alexShippingSubtitle": "The Best Shipping Solution for Your Business",
+    "trackYourShipment": "Track Your Shipment",
+    "trackYourShipmentSubtitle": "Enter your tracking number below to get the latest status of your shipment",
+    "contractAndContracting": "Contract & Contracting",
+    "contractAndContractingSubtitle": "Information about contract and contracting",
+    "contactUs": "Contact Us",
+    "contactUsSubtitle": "Contact us to get the help you need",
+    "aboutUs": "About Us",
+    "aboutUsSubtitle": "Some text describing your awesome features",
+    "lastUpdatedIn": "Last updated in",
+    "shipmentDetails": "Shipment Details",
+    "shipmentCode": "Shipment Code",
+    "description": "Description",
+    "weight": "Weight",
+    "piecesCount": "Pieces Count",
+    "recipient": "Recipient",
+    "name": "Name",
+    "address": "Address",
+    "destination": "Destination",
+    "noShipment": "No shipment found",
+    "customer": "Customer",
+    "ourBranches": "Our Branches",
+    "ourBranchesSubtitle": "Our Branches",
+    "governorate": "Governorate",
+    "city": "City",
+    "contractingParties": "Contracting Parties",
+    "preamble": "Preamble",
+    "contractClauses": "Contract Clauses",
+    "alexanderShippingContract": "Alexander Shipping Contract",
+    "shippingAndDeliveryContract": "Shipping and Delivery Contract • Alexander Shipping Company",
+    "contract": {
+        "partyOne": "First Party: Alexander Shipping Company, an Egyptian licensed company specialized in door-to-door shipping and delivery services, supporting and developing e-commerce through its digital platforms and professional team.",
+        "partyTwo": "Second Party: The client or company opening an account on the Alexander Shipping system and wishing to benefit from the shipping and delivery services provided by the first party.",
+        "introduction": "Whereas the First Party is specialized in shipping and delivery services and has the legal capabilities and licenses required to perform express transport operations, including receiving shipments from specified points and delivering them to final recipients according to the details in the shipment waybill; and whereas the Second Party wishes to use these services, both parties have agreed as follows:",
+        "sections": [
+            {
+                "title": "1. Prices and Modification Policy",
+                "points": [
+                    "Shipping prices are determined in Egyptian pounds according to Alexander Shipping’s approved pricing policy.",
+                    "Any special pricing or terms agreement between the parties is considered part of this contract.",
+                    "Alexander reserves the right to review and update prices based on operational or economic changes, with a 7-day prior notice.",
+                    "Exception: In case of official fuel price increases, price changes may apply immediately without prior notice.",
+                    "If shipment targets are not met, the company reserves the right to revise the agreed prices.",
+                    "Extra charges apply for oversized shipments or those shipped in large white plastic bags.",
+                    "Prices apply per shipment fitting in one flyer. Multiple flyers must be combined in one sealed plastic bag with details labeled."
+                ]
+            },
+            {
+                "title": "2. Compensation",
+                "points": [
+                    "Maximum compensation for damage or loss is 500 EGP per shipment.",
+                    "Incidents must be reported immediately; no claim is accepted after the courier departs.",
+                    "The company has 14 working days to investigate claims.",
+                    "The sender bears full responsibility for proper packaging.",
+                    "Liquid or fragile items are shipped entirely at sender’s risk."
+                ]
+            },
+            {
+                "title": "3. Administrative and Financial Responsibilities",
+                "points": [
+                    "If the consignee refuses to pay shipping fees, the sender bears full cost.",
+                    "If a shipment is returned, the sender bears 50% of the shipping fee.",
+                    "The client must accurately enter shipment data into the system.",
+                    "The client is responsible for any missing or incorrect data.",
+                    "If Alexander is requested to enter shipment data, an additional 5 EGP per shipment applies."
+                ]
+            },
+            {
+                "title": "4. Liability Exemption",
+                "points": [
+                    "Alexander is not responsible for product defects, content, or quality.",
+                    "The client must comply with consumer protection laws.",
+                    "Alexander is not liable for any taxes or customs penalties imposed on the client’s shipments."
+                ]
+            },
+            {
+                "title": "5. Legal Disputes",
+                "points": [
+                    "Any dispute related to the execution or interpretation of this agreement shall be settled by the courts of Cairo."
+                ]
+            },
+            {
+                "title": "6. General Provisions",
+                "points": [
+                    "Once a shipment is handed to Alexander, it falls under the company’s responsibility.",
+                    "The client acknowledges that shipments are handled solely for delivery and collection purposes."
+                ]
+            },
+            {
+                "title": "7. Delivery Schedule",
+                "points": [
+                    "Alexander ensures deliveries within working hours and designated courier routes.",
+                    "The company does not guarantee special or off-hour delivery times.",
+                    "Special requests must be pre-approved in writing and may incur extra fees."
+                ]
+            },
+            {
+                "title": "8. Geographic Coverage",
+                "points": [
+                    "Services are limited to urban areas and main cities only.",
+                    "Deliveries to remote areas are subject to approval and extra charges.",
+                    "One delivery attempt is considered sufficient proof of service."
+                ]
+            },
+            {
+                "title": "9. Collection and Financial Settlement",
+                "points": [
+                    "Settlement requests are made through the Alexander Shipping app.",
+                    "Requests are accepted on Mondays and Thursdays until 9 PM.",
+                    "Payments are processed on Saturdays and Tuesdays.",
+                    "Late requests roll over to the next settlement cycle."
+                ]
+            },
+            {
+                "title": "10. Pickup Requests",
+                "points": [
+                    "Pickup requests must be submitted before 12 PM for same-day service.",
+                    "Pickups operate from Saturday to Thursday.",
+                    "Requests with fewer than 5 shipments incur an additional pickup fee.",
+                    "Unregistered pickup requests are not executed.",
+                    "If the merchant delays delivery for over 10 minutes, the request is canceled."
+                ]
+            }
+        ]
+    }
+}
