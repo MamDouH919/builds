@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.efeb3a24.css",
-    "main.js": "/static/js/main.d5f01df5.js",
-    "static/js/695.2dc4b01d.chunk.js": "/static/js/695.2dc4b01d.chunk.js",
+    "main.js": "/static/js/main.275689c2.js",
+    "static/js/695.0dd0cfb9.chunk.js": "/static/js/695.0dd0cfb9.chunk.js",
     "static/js/453.d37423c7.chunk.js": "/static/js/453.d37423c7.chunk.js",
-    "static/js/262.7fd922ba.chunk.js": "/static/js/262.7fd922ba.chunk.js",
-    "static/js/54.1628f888.chunk.js": "/static/js/54.1628f888.chunk.js",
+    "static/js/767.5a724dba.chunk.js": "/static/js/767.5a724dba.chunk.js",
+    "static/js/54.82f6ed2a.chunk.js": "/static/js/54.82f6ed2a.chunk.js",
+    "static/js/690.615605c3.chunk.js": "/static/js/690.615605c3.chunk.js",
     "static/media/menu2.jpg": "/static/media/menu2.60373dfc4d6783fca84c.jpg",
     "static/media/arabprof222.jpg": "/static/media/arabprof222.938c237963de42439783.jpg",
     "static/media/menu1.jpg": "/static/media/menu1.17dacc21edd3953e0807.jpg",
@@ -100,14 +101,15 @@
     "static/media/instaPay.webp": "/static/media/instaPay.0b708dd8a2b3d9cb4d41.webp",
     "index.html": "/index.html",
     "main.efeb3a24.css.map": "/static/css/main.efeb3a24.css.map",
-    "main.d5f01df5.js.map": "/static/js/main.d5f01df5.js.map",
-    "695.2dc4b01d.chunk.js.map": "/static/js/695.2dc4b01d.chunk.js.map",
+    "main.275689c2.js.map": "/static/js/main.275689c2.js.map",
+    "695.0dd0cfb9.chunk.js.map": "/static/js/695.0dd0cfb9.chunk.js.map",
     "453.d37423c7.chunk.js.map": "/static/js/453.d37423c7.chunk.js.map",
-    "262.7fd922ba.chunk.js.map": "/static/js/262.7fd922ba.chunk.js.map",
-    "54.1628f888.chunk.js.map": "/static/js/54.1628f888.chunk.js.map"
+    "767.5a724dba.chunk.js.map": "/static/js/767.5a724dba.chunk.js.map",
+    "54.82f6ed2a.chunk.js.map": "/static/js/54.82f6ed2a.chunk.js.map",
+    "690.615605c3.chunk.js.map": "/static/js/690.615605c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efeb3a24.css",
-    "static/js/main.d5f01df5.js"
+    "static/js/main.275689c2.js"
   ]
 }
