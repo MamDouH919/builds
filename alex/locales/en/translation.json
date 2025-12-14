@@ -186,5 +186,9 @@
     "trackYourShipmentSubtitle2": "You can track your shipment and check its status easily at any time.",
     "more": "More",
     "aboutUsSubTitle": "Alexander Logistic is one of the leading logistics and shipping companies in Egypt, committed to connecting individuals and businesses across all governorates and cities nationwide. Since our establishment in 1999",
-    "dashboard": "Dashboard"
+    "dashboard": "Dashboard",
+    "Created": "Created",
+    "Shipped": "Shipped",
+    "OutForDelivery": "Out for Delivery",   
+    "Delivered": "Delivered"
 }
