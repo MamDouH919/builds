@@ -190,5 +190,8 @@
     "Created": "Created",
     "Shipped": "Shipped",
     "OutForDelivery": "Out for Delivery",   
-    "Delivered": "Delivered"
+    "Delivered": "Delivered",
+    "shipmentHistory": "Shipment History",
+    "reason": "Reason",
+    "kilograms": "kilograms"
 }

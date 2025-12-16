@@ -186,5 +186,8 @@
     "Created": "تم الانشاء",
     "Shipped": "تم الشحن",
     "OutForDelivery": "جاري التوصيل",
-    "Delivered": "تم التسليم"
+    "Delivered": "تم التسليم",
+    "shipmentHistory": "سجل التتبع",
+    "reason": "السبب",
+    "kilograms": "كجم"
 }
